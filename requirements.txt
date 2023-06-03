@@ -1,0 +1,9 @@
+numpy
+torch
+torchvision 
+torchaudio
+diffusers==0.12.1
+transformers
+ftfy
+opencv-python
+ipywidgets
